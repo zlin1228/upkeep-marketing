@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icon-enterprise-platform</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Learning-Center" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Website---Learning-Center---Listing" transform="translate(-570.000000, -233.000000)">
+            <g id="Solutions-Dropdown" transform="translate(234.000000, 63.000000)">
+                <g id="Main-Items" transform="translate(20.000000, 74.000000)">
+                    <g id="Enterprise-Platform" transform="translate(316.000000, 92.000000)">
+                        <g id="icon-enterprise-platform" transform="translate(0.000000, 4.000000)">
+                            <circle id="Oval" fill-opacity="0.15" fill="#007BFF" cx="27" cy="27" r="27"></circle>
+                            <g id="building" transform="translate(10.500000, 10.500000)" fill-rule="nonzero">
+                                <polygon id="Path" fill="#FF6243" points="16.5 0.5 16.5 2.5 19.5 1.5"></polygon>
+                                <polygon id="Path" fill="#007BFF" points="9.5 6.5 22.5 6.5 22.5 31.5 9.5 31.5"></polygon>
+                                <path d="M22.5,15.5 L30.5,15.5 C31.0522847,15.5 31.5,15.9477153 31.5,16.5 L31.5,30.5 C31.5,31.0522847 31.0522847,31.5 30.5,31.5 L22.5,31.5 L22.5,15.5 Z" id="Path" fill="#3D93F0"></path>
+                                <g id="Group" transform="translate(11.500000, 10.500000)" fill="#72B6FF">
+                                    <polygon id="Path" points="13.2794613 8.55539522 15.4927048 8.55539522 15.4927048 10.694244 13.2794613 10.694244"></polygon>
+                                    <polygon id="Path" points="17.1526375 8.55539522 19.365881 8.55539522 19.365881 10.694244 17.1526375 10.694244"></polygon>
+                                    <polygon id="Path" points="0 0 2.21324355 0 2.21324355 2.13884881 0 2.13884881"></polygon>
+                                    <polygon id="Path" points="3.87317621 0 6.08641975 0 6.08641975 2.13884881 3.87317621 2.13884881"></polygon>
+                                    <polygon id="Path" points="7.74635241 0 9.95959596 0 9.95959596 2.13884881 7.74635241 2.13884881"></polygon>
+                                    <polygon id="Path" points="0 4.27769761 2.21324355 4.27769761 2.21324355 6.41654642 0 6.41654642"></polygon>
+                                    <polygon id="Path" points="3.87317621 4.27769761 6.08641975 4.27769761 6.08641975 6.41654642 3.87317621 6.41654642"></polygon>
+                                    <polygon id="Path" points="7.74635241 4.27769761 9.95959596 4.27769761 9.95959596 6.41654642 7.74635241 6.41654642"></polygon>
+                                    <polygon id="Path" points="0 8.55539522 2.21324355 8.55539522 2.21324355 10.694244 0 10.694244"></polygon>
+                                    <polygon id="Path" points="3.87317621 8.55539522 6.08641975 8.55539522 6.08641975 10.694244 3.87317621 10.694244"></polygon>
+                                    <polygon id="Path" points="7.74635241 8.55539522 9.95959596 8.55539522 9.95959596 10.694244 7.74635241 10.694244"></polygon>
+                                    <polygon id="Path" points="13.2794613 12.2983806 15.4927048 12.2983806 15.4927048 14.4372294 13.2794613 14.4372294"></polygon>
+                                    <polygon id="Path" points="17.1526375 12.2983806 19.365881 12.2983806 19.365881 14.4372294 17.1526375 14.4372294"></polygon>
+                                </g>
+                                <path d="M1.5,15.5 L9.5,15.5 L9.5,31.5 L1.5,31.5 C0.94771525,31.5 0.5,31.0522847 0.5,30.5 L0.5,16.5 C0.5,15.9477153 0.94771525,15.5 1.5,15.5 Z" id="Path" fill="#3D93F0"></path>
+                                <polygon id="Path" fill="#72B6FF" points="5.5 18.5 7.5 18.5 7.5 20.5 5.5 20.5"></polygon>
+                                <polygon id="Path" fill="#72B6FF" points="1.5 18.5 3.5 18.5 3.5 20.5 1.5 20.5"></polygon>
+                                <polygon id="Path" fill="#72B6FF" points="5.5 22.5 7.5 22.5 7.5 24.5 5.5 24.5"></polygon>
+                                <polygon id="Path" fill="#72B6FF" points="1.5 22.5 3.5 22.5 3.5 24.5 1.5 24.5"></polygon>
+                                <polygon id="Path" fill="#E6E7E8" points="12.5 24.5 15.5 24.5 15.5 32.5 12.5 32.5"></polygon>
+                                <polygon id="Path" fill="#D1D3D4" points="16.5 24.5 19.5 24.5 19.5 32.5 16.5 32.5"></polygon>
+                                <polygon id="Path" fill="#378BCC" points="9.5 6.5 22.5 6.5 22.5 7.5 9.5 7.5"></polygon>
+                                <polygon id="Path" fill="#FF9811" points="15.5 0.5 16.5 0.5 16.5 4.5 15.5 4.5"></polygon>
+                                <path d="M23.5,5.5 L23.5,5.5 C23.5,4.94771525 23.0522847,4.5 22.5,4.5 L8.5,4.5 C7.94771525,4.5 7.5,4.94771525 7.5,5.5 L7.5,5.5 C7.5,6.05228475 7.94771525,6.5 8.5,6.5 L22.5,6.5 C23.0522847,6.5 23.5,6.05228475 23.5,5.5 Z" id="Path" fill="#1E81CE"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

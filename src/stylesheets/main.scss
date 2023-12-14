@@ -1,0 +1,10 @@
+@charset 'UTF-8';
+
+// Configuration and helpers
+@import 'utils/variables', 'utils/functions', 'utils/mixins';
+
+// Base stuff
+@import 'base/base';
+
+// Components
+@import 'components/pagination', 'components/swiper', 'components/react-slick';

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="73px" height="68px" viewBox="0 0 73 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-industries-farming</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-industries-farming" fill="#3F4B57">
+            <g id="Page-1">
+                <g>
+                    <g id="Artboard">
+                        <g id="icon-industries-farming">
+                            <polygon id="Fill-1" points="22.75 23 22.75 15.5 25.25 15.5 25.25 3 22.75 3 22.75 13 20.25 13 20.25 3 17.75 3 17.75 15.5 20.25 15.5 20.25 68 22.75 68 22.75 25.5 35.25 25.5 35.25 68 40.25 68 40.25 43 42.75 43 42.75 68 47.75 68 47.75 25.496 50.25 25.5 50.25 40.5 52.75 40.5 52.75 23"></polygon>
+                            <path d="M52.75,10.5 C52.75,7.832 50.645,5.504 47.5,4.176 C46.77,2.062 44.375,0.5 41.5,0.5 C38.625,0.5 36.23,2.062 35.5,4.176 C32.355,5.504 30.25,7.832 30.25,10.5 C30.25,12.734 31.738,14.711 34.059,16.086 C34.043,15.891 34,15.699 34,15.5 C34,11.363 37.363,8 41.5,8 C45.637,8 49,11.363 49,15.5 C49,15.699 48.953,15.891 48.941,16.086 C51.262,14.711 52.75,12.734 52.75,10.5 Z" id="Fill-2"></path>
+                            <path d="M46.5,15.5 C46.5,22.168 36.5,22.168 36.5,15.5 C36.5,8.832 46.5,8.832 46.5,15.5" id="Fill-3"></path>
+                            <polygon id="Fill-4" points="0.25 48 17.75 48 17.75 45.5 0.25 45.5"></polygon>
+                            <polygon id="Fill-5" points="25.25 48 32.75 48 32.75 45.5 25.25 45.5"></polygon>
+                            <polygon id="Fill-6" points="50.25 48 72.75 48 72.75 45.5 50.25 45.5"></polygon>
+                            <path d="M70.25,6.75 C70.25,10.203 67.453,13 64,13 C60.547,13 57.75,10.203 57.75,6.75 C57.75,3.297 60.547,0.5 64,0.5 C67.453,0.5 70.25,3.297 70.25,6.75" id="Fill-7"></path>
+                            <polygon id="Fill-8" points="5.25 55.5 17.75 55.5 17.75 53 5.25 53"></polygon>
+                            <polygon id="Fill-9" points="0.25 63 17.75 63 17.75 60.5 0.25 60.5"></polygon>
+                            <polygon id="Fill-10" points="25.25 55.5 32.75 55.5 32.75 53 25.25 53"></polygon>
+                            <polygon id="Fill-11" points="25.25 63 32.75 63 32.75 60.5 25.25 60.5"></polygon>
+                            <polygon id="Fill-12" points="50.25 55.5 67.75 55.5 67.75 53 50.25 53"></polygon>
+                            <polygon id="Fill-13" points="50.25 63 65.25 63 65.25 60.5 50.25 60.5"></polygon>
+                            <polygon id="Fill-14" points="67.75 63 72.75 63 72.75 60.5 67.75 60.5"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

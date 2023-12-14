@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icon-property-mgmt</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Learning-Center" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Website---Learning-Center---Listing" transform="translate(-254.000000, -233.000000)">
+            <g id="Solutions-Dropdown" transform="translate(234.000000, 63.000000)">
+                <g id="Main-Items" transform="translate(20.000000, 74.000000)">
+                    <g id="Property-Management" transform="translate(0.000000, 92.000000)">
+                        <g id="icon-property-mgmt" transform="translate(0.000000, 4.000000)">
+                            <circle id="Oval" fill-opacity="0.15" fill="#007BFF" cx="27" cy="27" r="27"></circle>
+                            <g id="house" transform="translate(13.000000, 13.000000)" fill-rule="nonzero">
+                                <rect id="Rectangle" fill="#EF7E6F" x="21.6895645" y="4.16875" width="3.32293555" height="5.8"></rect>
+                                <rect id="Rectangle" fill="#DF897A" x="20.4208145" y="1.20831445" width="5.86043555" height="3.14168555"></rect>
+                                <path d="M2.5375,15.6479355 L2.5375,29 L26.2208145,29 L26.2208145,15.6479355 C21.56875,10.9958711 18.9708145,8.39793555 14.3791289,3.80625 L14.3791289,3.80625 C9.7875,8.45831445 7.18956445,11.05625 2.5375,15.6479355 Z" id="Path" fill="#007BFF"></path>
+                                <path d="M26.28125,15.6479355 C21.6291855,10.9958711 19.03125,8.39793555 14.4395645,3.80625 C12.0833145,6.10206445 10.2708145,7.91456445 8.45831445,9.72706445 C6.64581445,11.5395645 4.83331445,13.3520645 2.5375,15.6478789 L2.5375,18.3666289 C7.18956445,13.7145645 9.7875,11.1166289 14.3791855,6.52494336 C19.03125,11.1770078 21.6291855,13.7749434 26.2208711,18.3666289 L26.2208711,18.7291289 L26.2208711,18.7291289 L26.2208711,15.6478789 L26.28125,15.6478789 L26.28125,15.6479355 Z" id="Path" fill="#006AFF"></path>
+                                <path d="M12.2645645,29 L5.13543555,29 L5.13543555,21.9916855 C5.13543555,19.9979355 6.76668555,18.4271211 8.7,18.4271211 L8.7,18.4271211 C10.69375,18.4271211 12.2645645,20.0583711 12.2645645,21.9916855 L12.2645645,29 Z" id="Path" fill="#025EC1"></path>
+                                <rect id="Rectangle" fill="#025EC1" x="14.3791855" y="18.4270645" width="9.30418555" height="8.15625"></rect>
+                                <g id="Group" transform="translate(15.292969, 19.371094)" fill="#007BFF" fill-opacity="0.49">
+                                    <rect id="Rectangle" x="0.0528457031" y="0.02265625" width="3.20206445" height="6.22293555"></rect>
+                                    <rect id="Rectangle" x="4.2215957" y="0.02265625" width="3.20206445" height="6.22293555"></rect>
+                                </g>
+                                <path d="M28.45625,13.1708145 L15.8291855,0.54375 C15.1041855,-0.18125 13.8354355,-0.18125 13.1104355,0.54375 L0.54375,13.1708145 C-0.18125,13.8958145 -0.18125,15.1645645 0.54375,15.8895645 C1.26875,16.6145645 2.5375,16.6145645 3.2625,15.8895645 L14.5,4.65206445 L25.7375,15.8895645 C26.4625,16.6145645 27.73125,16.6145645 28.45625,15.8895645 C29.18125,15.1041855 29.18125,13.8958145 28.45625,13.1708145 Z" id="Path" fill="#DF897A"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

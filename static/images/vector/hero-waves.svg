@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2770px" height="119px" viewBox="0 0 2770 119" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>hero-waves</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.258208786" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="2.92570153%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.119763361" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="hero-waves" fill-rule="nonzero">
+            <path d="M23,8 C465.244026,64.2262425 889.027031,79.0997473 1294.34901,52.6205138 C1473.28872,40.9305827 1703.18853,12.8839091 1915.87007,14.518941 C2095.25017,15.8979615 2379.96015,36.303256 2770,75.7348246 L2483.2388,119 L23,112.971246 L23,8 Z" id="Path-4" fill="url(#linearGradient-1)"></path>
+            <path d="M0,64.6338834 C712.205129,-6.95401602 1250.46154,-19.0743374 1614.76923,28.2729194 C1979.07692,75.6201765 2256.82052,78.8985396 2448,38.1080106 L2438.15385,101 L22.1538462,97.5773062 L0,64.6338834 Z" id="Path-5" fill="url(#linearGradient-2)"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,70 @@
+.pagination {
+  justify-content: center;
+  margin: 64px auto 0;
+
+  li {
+    display: block;
+    text-align: center;
+    margin-right: 10px;
+    background: transparent;
+    transition: background .3s;
+    color: #707481;
+    border-radius: 50%;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+    a {
+      display: block;
+      width: 40px;
+      height: 40px;
+      line-height: 40px;
+      text-align: center;
+      font-family: 'Sharp Sans Display No 2';
+      font-weight: 600;
+      font-size: 15px;
+      color: #707481;
+      letter-spacing: -1px;
+      &:hover {
+        color: #282F3C;
+      }
+    }
+    &:hover {
+      background: rgba(0,123,255,0.05);
+      a{
+        color: #007BFF;
+      }
+    }
+    &.active {
+      background: #007BFF;
+
+      a {
+        color: #fff;
+
+        &:hover {
+          color: #fff;
+        }
+      }
+    }
+
+    &:not(:last-child) {
+      margin-right: 10px;
+    }
+  }
+}
+
+@include respond-to(xs) {
+  .pagination {
+    margin: 40px auto 0;
+
+    li {
+      padding: 5px 10px;
+
+      a {
+        font-size: 14px;
+      }
+
+      &:not(:last-child) {
+        margin-right: 10px;
+      }
+    }
+  }
+}

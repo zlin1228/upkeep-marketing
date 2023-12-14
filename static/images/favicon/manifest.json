@@ -1,0 +1,17 @@
+{
+	"name": "UpKeep",
+	"icons": [
+		{
+			"src": "\/android-chrome-192x192.png?v=LbGwwlRywO",
+			"sizes": "192x192",
+			"type": "image\/png"
+		},
+		{
+			"src": "\/android-chrome-384x384.png?v=LbGwwlRywO",
+			"sizes": "384x384",
+			"type": "image\/png"
+		}
+	],
+	"theme_color": "#ff3b30",
+	"display": "standalone"
+}
